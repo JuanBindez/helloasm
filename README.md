@@ -1,2 +1,11 @@
 # helloasm
-hello assembly
+
+
+### Install nasm
+    sudo apt install nasm
+
+### compile
+    make
+
+### run
+    ./hello
