@@ -1,5 +1,5 @@
 section .data
-    msg db 'Hello, World!', 0x0A  ; A mensagem a ser impressa, terminada com uma nova linha (0x0A)
+    msg db 'Hello, World!', 0x0A
 
 section .bss
 
