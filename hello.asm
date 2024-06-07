@@ -1,5 +1,5 @@
 section .data
-    msg db 'Hello, World!', 0x0A
+    msg db 'Hello, asm!', 0x0A
 
 section .bss
 
